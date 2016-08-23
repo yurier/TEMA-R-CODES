@@ -9,20 +9,25 @@
  - experiment.R
  - experiment_overs.R
  - experiment_under.R
- - backwards_normal.R
- - 
  - best_2dcombination.R
  - extract_legend.R
+ - forward.R
  - hillclimbing.R
+ - backwards.R
+ - forward_normal.R
  - hillclimbing_normal.R
+ - backwards_normal.R
  - results_normal.R
  - results_overs.R
  - results_under.R
- - results_under_conf.R
  - results_normal_conf.R
+ - results_overs_conf.R
+ - results_under_conf.R
  - main.R
  - matrix_best_inclu_nondefi.R 
  - Bhattacharyya distance.R
+ - min-max_normalization.R
+ - combs_with_non_defining.R
  - PLOT1&2.R
  - PLOT3.R
  - PLOT4.R
