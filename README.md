@@ -1,5 +1,5 @@
 ## TEMA-R-CODES
 
-#Algorithms
+##Algorithms
 
-#Data
+##Data
