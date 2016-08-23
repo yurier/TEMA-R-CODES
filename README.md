@@ -1,6 +1,6 @@
-## TEMA-R-CODES
+## TEMA-R-CODES extra contents
 
-##Algorithms
+##CODES
 
  - SMOTE.R
  - undersampling.R
