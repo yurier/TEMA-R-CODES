@@ -4,31 +4,31 @@
 
  - SMOTE.R
  - undersampling.R
- 
  - SVM comparison.R
  - knnweighted_comparison.R
- 
  - experiment.R
  - experiment_overs.R
  - experiment_under.R
- 
  - backwards_normal.R
- 
+ - 
  - best_2dcombination.R
- 
  - extract_legend.R
  - hillclimbing.R
  - hillclimbing_normal.R
- 
- - main.R
- - matrix_best_inclu_nondefi.R
- 
  - results_normal.R
  - results_overs.R
  - results_under.R
- - 
  - results_under_conf.R
  - results_normal_conf.R
+ - main.R
+ - matrix_best_inclu_nondefi.R 
+ - Bhattacharyya distance.R
+ - PLOT1&2.R
+ - PLOT3.R
+ - PLOT4.R
+ - PLOT5.R
+ - PLOT6.R
+ - PLOT7.R
  
 ##Data
 
