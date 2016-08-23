@@ -1,0 +1,7 @@
+source('~/Dropbox/Projeto Alzheimer/Team Projects/TEMA - Feature selection in Alzheimer\'s biomarkers .../TEMA_R_CODES/experiment_overs.R')
+source('~/Dropbox/Projeto Alzheimer/Team Projects/TEMA - Feature selection in Alzheimer\'s biomarkers .../TEMA_R_CODES/experiment_under.R')
+source('~/Dropbox/Projeto Alzheimer/Team Projects/TEMA - Feature selection in Alzheimer\'s biomarkers .../TEMA_R_CODES/experiment.R')
+source('~/Dropbox/Projeto Alzheimer/Team Projects/TEMA - Feature selection in Alzheimer\'s biomarkers .../TEMA_R_CODES/combs_with_non_defining.R')
+source('~/Dropbox/Projeto Alzheimer/Team Projects/TEMA - Feature selection in Alzheimer\'s biomarkers .../TEMA_R_CODES/results_normal.R')
+source('~/Dropbox/Projeto Alzheimer/Team Projects/TEMA - Feature selection in Alzheimer\'s biomarkers .../TEMA_R_CODES/results_under.R')
+source('~/Dropbox/Projeto Alzheimer/Team Projects/TEMA - Feature selection in Alzheimer\'s biomarkers .../TEMA_R_CODES/results_overs.R')
