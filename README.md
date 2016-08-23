@@ -2,17 +2,17 @@
 
 ##CODES
 
- - SMOTE.R
- - undersampling.R
- - SVM comparison.R
- - knnweighted_comparison.R
- - experiment.R
- - experiment_overs.R
- - experiment_under.R
- - best_2dcombination.R
- - extract_legend.R
- - forward.R
- - hillclimbing.R
+ - SMOTE.R .....................................  (oversampling technique)
+ - undersampling.R .............................  (undersampling technique)
+ - SVM comparison.R ............................  (SVM 10-fold CV for given features)
+ - knnweighted_comparison.R ....................  (wkNN 10-fold CV for given features)
+ - experiment.R ................................  (LOOCV for unbalaced dataset)
+ - experiment_overs.R ..........................  (LOOCV for oversampled dataset)
+ - experiment_under.R ..........................  (LOOCV for undersampled dataset)
+ - best_2dcombination.R ........................  (plot every 2d combinations)
+ - extract_legend.R ............................  (function to create plot)
+ - forward.R ...................................  (forward selection with undersampling)
+ - hillclimbing.R ..............................  (hillclimbing with undersampling)
  - backwards.R
  - forward_normal.R
  - hillclimbing_normal.R
